@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **rohit.singh1_cs24@gla.ac.in**
 
